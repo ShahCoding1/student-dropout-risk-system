@@ -1,0 +1,13 @@
+{
+    "target_classes": [
+        "Dropout",
+        "Enrolled",
+        "Graduate"
+    ],
+    "dropout_class": "Dropout",
+    "risk_thresholds": {
+        "low": 0.4,
+        "medium": 0.7,
+        "high": 1.0
+    }
+}
